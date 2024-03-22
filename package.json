@@ -1,0 +1,33 @@
+{
+  "name": "eaquedoloribus",
+  "version": "1.6.1",
+  "description": "Forked from https://github.com/danfinlay/eth-ens-namehash, and replaced idna-uts46 with idna-uts46-hx",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikaHegmann/eaquedoloribus.git"
+  },
+  "keywords": [
+    "vero",
+    "qui"
+  ],
+  "author": "LessieZemlak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikaHegmann/eaquedoloribus.git/issues"
+  },
+  "homepage": "https://github.com/ErikaHegmann/eaquedoloribus.git",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "eaquequi": "^1.0.0",
+    "idna-uts46-hx": "^2.3.1",
+    "js-sha3": "^0.5.7",
+    "molestiaeaccusamus": "^1.0.0",
+    "velsoluta": "^1.0.0"
+  }
+}
